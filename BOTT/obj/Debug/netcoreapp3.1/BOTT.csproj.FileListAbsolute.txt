@@ -1,0 +1,67 @@
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\BOTT.exe
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\BOTT.deps.json
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\BOTT.runtimeconfig.json
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\BOTT.runtimeconfig.dev.json
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\BOTT.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\BOTT.pdb
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\VkNet.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\obj\Debug\netcoreapp3.1\BOTT.csproj.AssemblyReference.cache
+C:\Users\xyj\source\repos\BOTT\BOTT\obj\Debug\netcoreapp3.1\BOTT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xyj\source\repos\BOTT\BOTT\obj\Debug\netcoreapp3.1\BOTT.AssemblyInfoInputs.cache
+C:\Users\xyj\source\repos\BOTT\BOTT\obj\Debug\netcoreapp3.1\BOTT.AssemblyInfo.cs
+C:\Users\xyj\source\repos\BOTT\BOTT\obj\Debug\netcoreapp3.1\BOTT.csproj.CoreCompileInputs.cache
+C:\Users\xyj\source\repos\BOTT\BOTT\obj\Debug\netcoreapp3.1\BOTT.csproj.CopyComplete
+C:\Users\xyj\source\repos\BOTT\BOTT\obj\Debug\netcoreapp3.1\BOTT.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\obj\Debug\netcoreapp3.1\BOTT.pdb
+C:\Users\xyj\source\repos\BOTT\BOTT\obj\Debug\netcoreapp3.1\BOTT.genruntimeconfig.cache
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\xyj\source\repos\BOTT\BOTT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\bin\Debug\netcoreapp3.1\BOTT.exe
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\bin\Debug\netcoreapp3.1\BOTT.deps.json
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\bin\Debug\netcoreapp3.1\BOTT.runtimeconfig.json
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\bin\Debug\netcoreapp3.1\BOTT.runtimeconfig.dev.json
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\bin\Debug\netcoreapp3.1\BOTT.dll
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\bin\Debug\netcoreapp3.1\BOTT.pdb
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\bin\Debug\netcoreapp3.1\VkNet.dll
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\obj\Debug\netcoreapp3.1\BOTT.csproj.AssemblyReference.cache
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\obj\Debug\netcoreapp3.1\BOTT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\obj\Debug\netcoreapp3.1\BOTT.AssemblyInfoInputs.cache
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\obj\Debug\netcoreapp3.1\BOTT.AssemblyInfo.cs
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\obj\Debug\netcoreapp3.1\BOTT.csproj.CoreCompileInputs.cache
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\obj\Debug\netcoreapp3.1\BOTT.csproj.CopyComplete
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\obj\Debug\netcoreapp3.1\BOTT.dll
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\obj\Debug\netcoreapp3.1\BOTT.pdb
+C:\Users\BuninSil\Desktop\Новая папка (2)\BOTT\obj\Debug\netcoreapp3.1\BOTT.genruntimeconfig.cache
