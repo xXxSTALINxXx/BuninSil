@@ -147,10 +147,16 @@ namespace BOTT
                 userid = messages.Messages[0].UserId.Value;
                 object[] keys = new object[3] { message, keyname, userid };
                 vk.Messages.MarkAsRead(userid.ToString());
+                Console.WriteLine("готово!");
                 return keys;
+                
             }
             else
-                return new object[] { null, null, null };
+                Console.WriteLine("готово! (ex2)");
+
+            return new object[] { null, null, null };
+            
         }
+        
     }
 }
